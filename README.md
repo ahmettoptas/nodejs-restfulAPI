@@ -15,7 +15,8 @@ endDate   | String |	Date(YYYY-MM-DD)
 minCount  |	Number |	Minimum count
 maxCount  |	Number |	Maximum count
 
-There are 4 codes for the response payloads.
+
+There are 5 codes for the response payloads.
 > 0 is success. <br> 
 > 1 is unsuccess with invalid request type for "/records". <br>
 > 2 is invalid endpoint. <br>
